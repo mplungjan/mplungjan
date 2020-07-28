@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Michel Octocat](https://plungjan.name/images/michel_octocat.png | width=300)
+<img alt="Michel Octocat" src="https://plungjan.name/images/michel_octocat.png" height="300")
+
+
