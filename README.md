@@ -1,4 +1,10 @@
-### Hi there 👋
+# mplungjan everywhere
+
+- ⚡ Fun fact: I am too busy helping others to actually save anything here.
+
+- 💬 Ask me about Vanilla JavaScript and/or jQuery
+
+- 📫 How to reach me: https://plungjan.name/
 
 <!--
 **mplungjan/mplungjan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +21,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img alt="Michel Octocat" src="https://plungjan.name/images/michel_octocat.png" height="300")
+<img alt="Michel Octocat" src="https://plungjan.name/images/michel_octocat.png" height="300"/>
 
 
